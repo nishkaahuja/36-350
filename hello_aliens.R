@@ -8,8 +8,4 @@ many other exciting places to see during your stay on Earth across our seven con
 larger or smaller than ours? I am sure many of us on Earth would like to visit your planet! We have sent humans to the moon
 and  the International Space Station, but we are looking forward to exploring other parts of our universe as well.")
 =======
-Dear aliens,
 
-Before I  introduce Earth, I was wondering which planet or galaxy you have arrived from? Here on Earth, 
-we have expected any alien life forms to visit us from within our galaxy that has 
->>>>>>> e0f5286bfdc8213a4298e03a7a10872958d081a3
